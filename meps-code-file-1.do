@@ -17,7 +17,7 @@
 **** Link: https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-201
 
 // MEPS HC-233: 2021 Full Year Consolidated Data File (Stata Format)
-**** Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-233
+**** Link: https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-233
 
 // MEPS HC-251: 2023 Full Year Consolidated Data File (Stata Format)
 **** Link: https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-251
